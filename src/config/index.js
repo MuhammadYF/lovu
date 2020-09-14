@@ -1,13 +1,13 @@
 export default {
   ucapan: [
     "Whatever happens, keep breathing",
-    "Pam pam pararam ceklek jedar\nPararam ram parararam ram",
+    "Pam pam pararagshshwhwbejejwm ceklek jedar\nPararam ram parararam ram",
     "Hey! I wuv chuuuu! UwU",
     "I love you.",
     "I may not with you everyday, but I love you everyday.",
     "I love you.",
   ],
-  panggilan: ["Yoan", "Yoanjg:v"],
+  panggilan: ["anjingsw", "Yoang:v"],
   colors: [
     "#FF6900",
     "#FCB900",
